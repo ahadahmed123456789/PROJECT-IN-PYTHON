@@ -121,8 +121,8 @@ def add_Emp():
 # to run the main mrnu
 menu()
 
-# I USE AI FOR MAKE THE LOGIC FOR VIEW DATA FUNCTION
-# BEACUSE I STUCK IN HOW TO DISPLAY DATA IN TABLE FORM
+
+
 
 
 
